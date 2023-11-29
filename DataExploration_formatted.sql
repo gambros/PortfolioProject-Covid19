@@ -1,6 +1,6 @@
 /*-----------------------------------------------------------------------------------------------------------------------------------------------
 											
-														COVID-19 PROJECT - DATA EXPLORATION 
+								COVID-19 PROJECT - DATA EXPLORATION 
 
 Skills used: Joins, CTE, Temporary Tables, Subqueries, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types.
 
